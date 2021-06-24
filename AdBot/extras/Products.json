@@ -1,0 +1,220 @@
+ad_package_all = {
+
+    "premium": {
+        "1": {
+            "db_type": "Subscription",
+            "db_price": 5, # dollars per month
+            "db_expiration_date": 30 #days
+        }
+    },
+
+    "premium+" : {
+        "2": {
+            "db_type": "Subscription",
+            "db_price": 15, # dollars per month
+            "db_expiration_date": 30 # days
+        }
+    },
+
+    "discord_server_advertising" : {
+        "3": {
+            "db_package_id": 3.1,
+            "db_price": 1,
+            "db_expiration_date": 1
+        }
+    },
+
+    "discord_server_advertising" : {
+        "3": {
+            "db_package_id": 3.2,
+            "db_price": 3,
+            "db_expiration_date": 3
+        }
+    },
+
+    "discord_server_advertising" : {
+        "3": {
+            "db_package_id": 3.3,
+            "db_price": 6,
+            "db_expiration_date": 6
+        }
+    },
+
+    "discord_server_advertising" : {
+        "3": {
+            "db_package_id": 3.4,
+            "db_price": 12,
+            "db_expiration_date": 12
+        }
+    },
+
+    "discord_server_advertising" : {
+        "3": {
+            "db_package_id": 3.5,
+            "db_price": 24,
+            "db_expiration_date": 24
+        }
+    },
+
+    "discord_server_advertising" : {
+        "3": {
+            "db_package_id": 3.6,
+            "db_price": 48,
+            "db_expiration_date": 48
+        }
+    },
+
+    "discord_server_advertising" : {
+        "3": {
+            "db_package_id": 3.7,
+            "db_price": 150,
+            "db_expiration_date": 168
+        }
+    },
+
+    "discord_server_advertising" : {
+        "3": {
+            "db_package_id": 3.8,
+            "db_price": 320,
+            "db_expiration_date": 360
+        }
+    },
+
+    "discord_server_advertising" : {
+        "3": {
+            "db_package_id": 3.9,
+            "db_price": 630,
+            "db_expiration_date": 720
+        }
+    },
+
+    "discord_server_advertising" : {
+        "3": {
+            "db_package_id": 3.10,
+            "db_price": 1240,
+            "db_expiration_date": 1440
+        }
+    },
+
+    "external_product_and_service_advertising" : {
+        "4": {
+            "db_package_id": 4.1,
+            "db_price": 1.1,
+            "db_expiration_date": 1
+        }
+    },
+
+    "external_product_and_service_advertising" : {
+        "4": {
+            "db_package_id": 4.2,
+            "db_price": 3.3,
+            "db_expiration_date": 3
+        }
+    },
+
+    "external_product_and_service_advertising" : {
+        "4": {
+            "db_package_id": 4.3,
+            "db_price": 6.6,
+            "db_expiration_date": 6
+        }
+    },
+
+    "external_product_and_service_advertising" : {
+        "4": {
+            "db_package_id": 4.4,
+            "db_price": 13.2,
+            "db_expiration_date": 12
+        }
+    },
+
+    "external_product_and_service_advertising" : {
+        "4": {
+            "db_package_id": 4.5,
+            "db_price": 26.4,
+            "db_expiration_date": 24
+        }
+    },
+
+    "external_product_and_service_advertising" : {
+        "4": {
+            "db_package_id": 4.6,
+            "db_price": 52.8,
+            "db_expiration_date": 48
+        }
+    },
+
+    "external_product_and_service_advertising" : {
+        "4": {
+            "db_package_id": 4.7,
+            "db_price": 167,
+            "db_expiration_date": 184.8
+        }
+    },
+
+    "external_product_and_service_advertising" : {
+        "4": {
+            "db_package_id": 4.8,
+            "db_price": 360,
+            "db_expiration_date": 396
+        }
+    },
+
+    "external_product_and_service_advertising" : {
+        "4": {
+            "db_package_id": 4.9,
+            "db_price": 702,
+            "db_expiration_date": 792
+        }
+    },
+
+    "external_product_and_service_advertising" : {
+        "4": {
+            "db_package_id": 4.10,
+            "db_price": 1384,
+            "db_expiration_date": 1584
+        }
+    },
+
+    "add-ons" : {
+        "5": {
+            "db_package_id": 5.1,
+            "db_price": 75
+        },
+    },
+
+    "add-ons" : {
+
+        "5": {
+            "db_package_id": 5.2,
+            "db_price": 75
+        },
+    },
+
+    "add-ons" :{
+
+        "5": {
+            "db_package_id": 5.3,
+            "db_price": 100
+        },
+    },
+
+    "add-ons": {
+
+        "5": {
+            "db_package_id": 5.4,
+            "db_price": 25
+        }
+    },
+
+    "pre-built-packages": {
+        "6": None
+    },
+
+    "distributer-license": {
+        "7": {
+            "db_package_id": 7.1,
+            "db_price": 10
+        }
+    }
+}

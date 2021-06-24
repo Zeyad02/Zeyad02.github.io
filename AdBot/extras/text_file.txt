@@ -1,0 +1,115 @@
+- A loop that displays the ad in the channel that the server owner wants it to be displayed in.
+      - Allow the server owner to choose the time that the ad gets displayed for the loop. Make the minimum time 5 minutes.
+      - Make it so that the bot does not send the same message over and over again. If no users have spoken between the first
+        message and 5 minutes later when the second message needs to be sent, do not send the second message.
+      - Allow the server owner to choose the channels that the bot displays messages in.
+
+- Help command that shows server owners how to set up the bot and the best practices to make money off of it.
+
+- Make a system to keep track of every time a user uses the invite link on the Discord Server that is used for advertising.
+      - Whenever a user uses the invite link, give the server owner 50% of the money earned.
+
+- Add a system that prevents server owners from making bots and clicking the invite links.
+      - Only accounts that are older than 6 months can bring server owners money.
+
+- Add system where if main_ad_on_or_off is true then do not let users to do >setup command. they must use >stopad first and then be able to use >setup. Add this as a if statement in >setup command.
+
+
+- Create a private main document in the database for the guild when the bot is put into the server. Remove the document when
+
+  bot is kicked out of guild.
+
+- A free trial program.
+
+/- System for rewarding people who put their custom status as an ad.
+
+/- A program for rewarding people who find us partners.
+
+- Giveaway in the message and text ads so that people do not mute or deafen it. So they can win giveaways.
+
+- Have a backup bot in the most important Discord Servers. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+- Make a "pushad" command. This will push a specific ad above other ads.
+
+- Make an "allcommands" command that displays how each command is used. Maybe: Subsection commands for specific tasks.
+
+- Recheck command perms for all commands.
+
+- Think about increasing premium+ expiration_date to 45 days instead of 30 days.
+
+
+
+---
+
+
+
+    Marketing:
+
+        - Advertise the fact that whenever a server pings @everyone, those people will usually go to #general and the other channels that the ads will be on. Hence, they will get the benefits of an @everyone ping basically for free every time the server uses it.
+        - Compare traditional Discord Ads with Squanchy Ads. Use pictures and Graphs with expert imagery.
+
+
+
+---
+
+
+
+# Payment Plans (day-based):
+    # (Redirect the advertisers for data collection.)
+
+    # 1) Premium --> 5$/month:
+        # - Access to "Free Ad Package Giveaways". (Up to 1000$ giveaways in Ad Packages.)
+        # - Access to Premium text and voice chat.
+        # - Get a custom role with a custom color.
+
+        # - Support the server :D.
+
+    # 2) Premium+ --> 15$/month:
+        # - Run your ad for 24 hours once every week. Can be used up to 4 times a month, but can only be used once a week.
+        # - A free license to distribute our services and earn 50% of the revenue from referals. See #licence-to-distribute .
+
+        # - Support the server :D.
+
+    # 3) Discord Server Advertising:
+
+        # (3.1) - 1 hour --> 1$
+        # (3.2) - 3 hours --> 3$
+        # (3.3) - 6 hours --> 6$
+        # (3.4) - 12 hours --> 12$
+        # (3.5) - 24 hours --> 24$
+
+        # (3.6) - 2 days --> 48$
+        # (3.7) - 7 days --> 150$ | (Save 18$)
+        # (3.8) - 15 days --> 320$ | (Save 40$)
+        # (3.9) - 30 days --> 630$ | (Save 90$)
+        # (3.10) - 60 days --> 1240$ | (Save 200$)
+
+    # (4) External Product/Service Advertising (Websites, blogs, stores, companies, Minecraft servers, IRL brands, etc., anything that is not a discord server):
+
+        # (4.1) - 1 hour --> 1.1$
+        # (4.2) - 3 hours --> 3.3$
+        # (4.3) - 6 hours --> 6.6$
+        # (4.4) - 12 hours --> 13.2$
+        # (4.5) - 24 hours --> 26.4$
+
+        # (4.6) - 2 days --> 52.8$
+        # (4.7) - 7 days --> 167$ | (Save 18$)
+        # (4.8) - 15 days --> 360$ | (Save 40$)
+        # (4.9) - 30 days --> 702$ | (Save 90$)
+        # (4.10) - 60 days --> 1384$ | (Save 200$)
+
+    # (5) Add-ons:
+
+        # (5.1) - Short Recording, GIF (No volume.) --> 75$ ||| (Add a GIF/short recording which plays on repeat to your Ad)
+        # (5.2) - Video, includes volume but requires clicking to start. --> 75$ ||| (Add a clickable video to your Ad)
+        # (5.3) - Voice recording. --> 100$ ||| (Play a voice recording of your ad in voice channels.)
+        # (5.4) - Picture Ad. --> 25$ ||| (Add pictures to your Ad.)
+
+    # (6) Pre-built packages:
+
+        # None right now.
+
+    # (7) Distributer license:
+        # (7.1) - Distributer license. (A license to distribute our services and earn 50% of the revenue from referals) --> 10$/per month
+
+# ^ add all of this to a command that can be accessed by anyone. Make a nice button interface or embed interface to go with it.
